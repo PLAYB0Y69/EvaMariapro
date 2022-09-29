@@ -49,7 +49,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/dqanshi/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/PLAYB0Y69/EvaMariapro/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
