@@ -13,7 +13,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑺𝒏𝒐𝒘 𝑾𝒉𝒊𝒕𝒆 is a open source project. 
-- Source - https://t.me/danger_bots  
+- Source - https://t.me/PL4YB0YXD 
 
 <b>DEVS:</b>
 - <a href=https://t.me/danger_bots>Team dangerbots</a>"""
